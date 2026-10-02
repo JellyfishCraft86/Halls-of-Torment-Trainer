@@ -1,5 +1,3 @@
-
-
 🎮 Halls of Torment Trainer
 
 «⚡ A universal project with additional gameplay and visual features»
@@ -109,4 +107,5 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
 
